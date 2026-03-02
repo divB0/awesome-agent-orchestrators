@@ -38,6 +38,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 
 AI assistants that bridge to messaging platforms and other interfaces.
 
+- [accomplish](https://github.com/accomplish-ai/accomplish) - Open source AI coworker that lives on your desktop.
 - [assistant](https://github.com/kcosr/assistant) - Panel-based personal assistant with a plugin architecture for productivity workflows.
 - [babyagi3](https://github.com/yoheinakajima/babyagi3) - A minimal AI agent you configure once, then run through natural language.
 - [ClawWork](https://github.com/HKUDS/ClawWork) - OpenClaw as your AI coworker.
